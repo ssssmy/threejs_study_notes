@@ -1,14 +1,5 @@
-<!--
- * @Author: your name
- * @Date: 2021-03-23 19:51:54
- * @LastEditTime: 2021-04-05 23:10:17
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: \vue6three\src\views\Home.vue
--->
 <template>
   <div class="home">
-    <!-- <h1>欢迎来到 ssssmy 的3D世界</h1> -->
   </div>
 </template>
 
