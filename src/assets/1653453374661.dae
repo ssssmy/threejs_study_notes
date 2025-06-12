@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<COLLADA version="1.5.0" xmlns="http://www.collada.org/2008/03/COLLADASchema"> 
+    <asset> 
+    <contributor> 
+     <author>ACME</author> 
+    </contributor> 
+    <created>2016-04-27T14:53:24</created> 
+    <modified>2016-04-27T14:53:24</modified> 
+    <unit meter="0.001" name="mm" /> 
+    <up_axis>Z_UP</up_axis> 
+    </asset> 
+    <library_visual_scenes id="libvisualscenes"> 
+    <visual_scene id="libvisualscenes.scene"> 
+     <node id="38760" name="Part1_CATPart"> 
+     <matrix>-1.000000 0.000000 0.000000 -399.679153 0.000000 0.000000 -1.000000 671.000000 0.000000 -1.000000 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000</matrix> 
+     <instance_node url="Part1_CATPart_799.dae#acme_frame_self_origin" /> 
+     </node> 
+    </visual_scene> 
+    </library_visual_scenes> 
+    <scene> 
+    <instance_visual_scene url="#libvisualscenes.scene" /> 
+    </scene> 
+</COLLADA>
